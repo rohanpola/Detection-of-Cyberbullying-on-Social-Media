@@ -1,0 +1,5 @@
+Software: Python 3.8 (64 bit)
+Software download link: https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+How to Install Video: https://youtu.be/xQdCWeFFvJc
+
+After Installing Python, Install the required libraris from the file "requirements.txt"
